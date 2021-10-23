@@ -20,6 +20,7 @@ class Fish{
       fill(0);
 
       image(fish,random(800), random(600), sizeVal, sizeVal);
+      delay(30);
     }
   }
   
