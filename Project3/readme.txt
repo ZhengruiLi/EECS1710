@@ -1,0 +1,1 @@
+pressed ＂A＂ to change mode
